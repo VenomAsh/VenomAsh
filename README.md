@@ -1,4 +1,5 @@
-[![MasterHead][(https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodepen.io%2FHil-S%2Ffull%2FRwEomNo&psig=AOvVaw3QunlTnUIkYsmyUDkZYy2T&ust=1720530198421000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi3hPfAl4cDFQAAAAAdAAAAABAE)](https://stock.adobe.com/ca/images/kid-coding-computer-programming-paper-cut-banner-generative-ai/567403147)](https://c0.piktochart.com/v2/uploads/63992dc0-2604-4b4c-87a3-52cf64334059/a4da339936efcfba65674696a2cd04bdc0f68b2c_original.png?w=1080)
+![MasterHead]
+
 <h1 align="center">Hi 👋, I'm Ashwin Chandapur</h1>
 <h3 align="center">A passionate Masters student in Robotics</h3>
 
